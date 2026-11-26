@@ -33,7 +33,7 @@ Photo of a Schadow series G PCB/bracket mounting drawing, title block on right e
 - **Centre lines:** 16,238 paths (130 closed); straight 7,885 mm, curved 37.4 mm; horizontal 2,759 mm, vertical 1,429 mm, diagonal 3,697 mm
 - **Circles and arcs:** 0 circles, 9 arcs
 
-Every curve, box, word and wire group: [1974 - 461-03-031 - SCHADOW SERIES 'G' MTG. (PCB V.S. BKT MTG) - DRN DM - ISS 3 (traced).json](../MECHANICAL/1974%20-%20461-03-031%20-%20SCHADOW%20SERIES%20%27G%27%20MTG.%20(PCB%20V.S.%20BKT%20MTG)%20-%20DRN%20DM%20-%20ISS%203%20(traced).json) (the CAD file: `1974 - 461-03-031 - SCHADOW SERIES 'G' MTG. (PCB V.S. BKT MTG) - DRN DM - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 461-03-031 - SCHADOW SERIES 'G' MTG. (PCB V.S. BKT MTG) - DRN DM - ISS 3 (traced).json](../MECHANICAL/1974%20-%20461-03-031%20-%20SCHADOW%20SERIES%20%27G%27%20MTG.%20%28PCB%20V.S.%20BKT%20MTG%29%20-%20DRN%20DM%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1974 - 461-03-031 - SCHADOW SERIES 'G' MTG. (PCB V.S. BKT MTG) - DRN DM - ISS 3 (traced).dxf`).
 
 ## Full text
 

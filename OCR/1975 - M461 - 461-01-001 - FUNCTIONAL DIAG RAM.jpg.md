@@ -23,7 +23,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 153 connected wire groups from 592 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [1975 - M461 - 461-01-001 - FUNCTIONAL DIAG RAM (traced).json](../SCHEMATICS/1975%20-%20M461%20-%20461-01-001%20-%20FUNCTIONAL%20DIAG%20RAM%20(traced).json) (the CAD file: `1975 - M461 - 461-01-001 - FUNCTIONAL DIAG RAM (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M461 - 461-01-001 - FUNCTIONAL DIAG RAM (traced).json](../SCHEMATICS/1975%20-%20M461%20-%20461-01-001%20-%20FUNCTIONAL%20DIAG%20RAM%20%28traced%29.json) (the CAD file: `1975 - M461 - 461-01-001 - FUNCTIONAL DIAG RAM (traced).dxf`).
 
 ## Full text
 

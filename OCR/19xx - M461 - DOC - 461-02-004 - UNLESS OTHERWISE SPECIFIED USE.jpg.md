@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (350, 14)–(408, 30) mm: WBS WARD Beck BYBTEME LTD · M461 · Datl = SEPT76
 - **Wiring (first pass):** 130 connected wire groups from 799 runs; labelled ends: 263 mm → PHASE, Sw |1; 244 mm → WSED, WBS, Datl = SEPT76; 226 mm → AUA, PoSt, AUX, PRE; 182 mm → 712, R37, 150, S {0; 167 mm → AUX |, Auxz, Sw 5, PfL
 
-Every curve, box, word and wire group: [19xx - M461 - DOC - 461-02-004 - UNLESS OTHERWISE SPECIFIED USE (traced).json](../SCHEMATICS/19xx%20-%20M461%20-%20DOC%20-%20461-02-004%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20USE%20(traced).json) (the CAD file: `19xx - M461 - DOC - 461-02-004 - UNLESS OTHERWISE SPECIFIED USE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M461 - DOC - 461-02-004 - UNLESS OTHERWISE SPECIFIED USE (traced).json](../SCHEMATICS/19xx%20-%20M461%20-%20DOC%20-%20461-02-004%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20USE%20%28traced%29.json) (the CAD file: `19xx - M461 - DOC - 461-02-004 - UNLESS OTHERWISE SPECIFIED USE (traced).dxf`).
 
 ## Full text
 

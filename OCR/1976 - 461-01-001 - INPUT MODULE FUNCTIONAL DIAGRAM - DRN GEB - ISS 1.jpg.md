@@ -34,7 +34,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Closed boxes:** 46
 - **Wiring (first pass):** 149 connected wire groups from 599 runs
 
-Every curve, box, word and wire group: [1976 - 461-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20461-01-001%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ISS%201%20(traced).json) (the CAD file: `1976 - 461-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 461-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20461-01-001%20-%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20GEB%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 461-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 1 (traced).dxf`).
 
 ## Full text
 

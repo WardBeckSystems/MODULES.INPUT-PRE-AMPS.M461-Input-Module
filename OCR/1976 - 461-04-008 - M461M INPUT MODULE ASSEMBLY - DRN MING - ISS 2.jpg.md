@@ -33,7 +33,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Words (OCR):** 50 in 41 lines: Z2E ~AM? · 3ooster · WBS · Sw | · WESJ · 10 · 77 4 SEN ) · 5w/2 · SW/5 · 0-109 · 248 · SW9
 - **Title block:** (67, 4)–(546, 349) mm: 3ooster · WBS · Sw | · 77 4 SEN ) · 5w/2 · SW/5 · 0-109 · 248 · SW9 · WBS ) · WBs] · AUX · 4.03 · Sw7 · C:s · SW 10 · AUX · Swii · Ch On · SW? · Qutput AM? · Iv 461 M INPUT MODULE · OSSMODJICKD · USED
 
-Every curve, box, word and wire group: [1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY - DRN MING - ISS 2 (traced).json](../MECHANICAL/1976%20-%20461-04-008%20-%20M461M%20INPUT%20MODULE%20ASSEMBLY%20-%20DRN%20MING%20-%20ISS%202%20(traced).json) (the CAD file: `1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY - DRN MING - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY - DRN MING - ISS 2 (traced).json](../MECHANICAL/1976%20-%20461-04-008%20-%20M461M%20INPUT%20MODULE%20ASSEMBLY%20-%20DRN%20MING%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY - DRN MING - ISS 2 (traced).dxf`).
 
 ## Full text
 

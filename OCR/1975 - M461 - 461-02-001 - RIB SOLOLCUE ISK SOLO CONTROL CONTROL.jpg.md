@@ -24,7 +24,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Title block:** (356, 17)–(404, 33) mm: WBS WARD-
 - **Wiring (first pass):** 196 connected wire groups from 982 runs; labelled ends: 491 mm → 30?; 223 mm → R37, I50, REV SEND, FRE; 221 mm → SwS, Swi?; 176 mm → 834, Swio, REV SEND, FRE; 158 mm → PAN, Rjo, 304, JOOSTER
 
-Every curve, box, word and wire group: [1975 - M461 - 461-02-001 - RIB SOLOLCUE ISK SOLO CONTROL CONTROL (traced).json](../SCHEMATICS/1975%20-%20M461%20-%20461-02-001%20-%20RIB%20SOLOLCUE%20ISK%20SOLO%20CONTROL%20CONTROL%20(traced).json) (the CAD file: `1975 - M461 - 461-02-001 - RIB SOLOLCUE ISK SOLO CONTROL CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M461 - 461-02-001 - RIB SOLOLCUE ISK SOLO CONTROL CONTROL (traced).json](../SCHEMATICS/1975%20-%20M461%20-%20461-02-001%20-%20RIB%20SOLOLCUE%20ISK%20SOLO%20CONTROL%20CONTROL%20%28traced%29.json) (the CAD file: `1975 - M461 - 461-02-001 - RIB SOLOLCUE ISK SOLO CONTROL CONTROL (traced).dxf`).
 
 ## Full text
 

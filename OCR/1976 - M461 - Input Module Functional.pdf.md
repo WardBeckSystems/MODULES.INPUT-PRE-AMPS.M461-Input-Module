@@ -31,7 +31,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Title block:** (272, 11)–(377, 57) mm: WBS WARD-BECK BYSTEMS LTD · DRN GEB · M4 61 · IDATE · Oct · CKD · 34 · INPUT MODULE · FUNCTIONAL · [SCALE · TOLs ANG · 461 01-0 01
 - **Wiring (first pass):** 152 connected wire groups from 386 runs; labelled ends: 222 mm → CHANNEL, ON, PHASE, SOLO; 141 mm → FINISH; 98 mm → 3540; 91 mm → CHANNEL, ON, FADER, (_15dB); 75 mm → ConTROL
 
-Every curve, box, word and wire group: [1976 - M461 - Input Module Functional p1 (traced).json](../SCHEMATICS/1976%20-%20M461%20-%20Input%20Module%20Functional%20p1%20(traced).json) (the CAD file: `1976 - M461 - Input Module Functional p1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M461 - Input Module Functional p1 (traced).json](../SCHEMATICS/1976%20-%20M461%20-%20Input%20Module%20Functional%20p1%20%28traced%29.json) (the CAD file: `1976 - M461 - Input Module Functional p1 (traced).dxf`).
 
 ## Full text
 

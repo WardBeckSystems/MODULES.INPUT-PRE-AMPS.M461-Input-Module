@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 48 in 35 lines: 0.24 0.551 · 0.29 · 0.26 · 0.35 · 0.54 · 0.130 DIA: · 2 PLACES · #4-40 UNC · 0.60 · NQTES; · SSUE] DATE · REVISION
 - **Title block:** (246, 19)–(416, 87) mm: SSUE] DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN: · DEC · 987 · M461 · ENG_ · SWTCH · MOUNTING BRACKEI · CKD · APP. · SCALE DISC NO: 200 · 461-03-041 · ISSUE · 2:1 CODE: 461M41
 
-Every curve, box, word and wire group: [19xx - M461 - DOC - 461-03-041 - REMOVE ALL BURRS AND SIIARP (traced).json](../MECHANICAL/19xx%20-%20M461%20-%20DOC%20-%20461-03-041%20-%20REMOVE%20ALL%20BURRS%20AND%20SIIARP%20(traced).json) (the CAD file: `19xx - M461 - DOC - 461-03-041 - REMOVE ALL BURRS AND SIIARP (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M461 - DOC - 461-03-041 - REMOVE ALL BURRS AND SIIARP (traced).json](../MECHANICAL/19xx%20-%20M461%20-%20DOC%20-%20461-03-041%20-%20REMOVE%20ALL%20BURRS%20AND%20SIIARP%20%28traced%29.json) (the CAD file: `19xx - M461 - DOC - 461-03-041 - REMOVE ALL BURRS AND SIIARP (traced).dxf`).
 
 ## Full text
 

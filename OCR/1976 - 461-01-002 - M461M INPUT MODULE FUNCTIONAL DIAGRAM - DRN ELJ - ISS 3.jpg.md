@@ -33,7 +33,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Closed boxes:** 39
 - **Wiring (first pass):** 161 connected wire groups from 655 runs
 
-Every curve, box, word and wire group: [1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3 (traced).json](../SCHEMATICS/1976%20-%20461-01-002%20-%20M461M%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20ELJ%20-%20ISS%203%20(traced).json) (the CAD file: `1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3 (traced).json](../SCHEMATICS/1976%20-%20461-01-002%20-%20M461M%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20ELJ%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3 (traced).dxf`).
 
 ## Full text
 

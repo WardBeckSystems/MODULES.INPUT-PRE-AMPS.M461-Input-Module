@@ -36,7 +36,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Words (OCR):** 47 in 35 lines: 0.24 0.551 · 0.29 · 0.35 · 0.26 · 0.54 · 0.130 DIA: · 2 PLACES · #4-40 UNC · 0.60 · NQTES; · SSUE] DATE · REVISION
 - **Title block:** (246, 19)–(416, 87) mm: SSUE] DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN; · DEC · 987 · M461 · ENG_ · SWTCH · MOUNTING BRACKEI · CKD · APP. · SCALE DISC NO: 200 · 461-03-041 · ISSUE · 2:1 CODE: 461M41
 
-Every curve, box, word and wire group: [1987 - 461-03-041 - SWITCH MOUNTING BRACKET - DRN Steve Gray - ISS 1 (traced).json](../MECHANICAL/1987%20-%20461-03-041%20-%20SWITCH%20MOUNTING%20BRACKET%20-%20DRN%20Steve%20Gray%20-%20ISS%201%20(traced).json) (the CAD file: `1987 - 461-03-041 - SWITCH MOUNTING BRACKET - DRN Steve Gray - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1987 - 461-03-041 - SWITCH MOUNTING BRACKET - DRN Steve Gray - ISS 1 (traced).json](../MECHANICAL/1987%20-%20461-03-041%20-%20SWITCH%20MOUNTING%20BRACKET%20-%20DRN%20Steve%20Gray%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1987 - 461-03-041 - SWITCH MOUNTING BRACKET - DRN Steve Gray - ISS 1 (traced).dxf`).
 
 ## Full text
 

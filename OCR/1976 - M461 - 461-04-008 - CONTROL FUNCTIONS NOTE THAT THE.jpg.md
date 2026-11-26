@@ -27,7 +27,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Words (OCR):** 256 in 147 lines: WBS · M461 · HIGH PASS FILTER control · Rs2/s3ff Allows · INPUT  SELECTOR swi tch · Swi: Se lects che · MIC · continuous adjus tment · Poter · microphone via · gna source · microphone
 - **Title block:** (196, 10)–(389, 266) mm: WBS · M461 · HIGH PASS FILTER control · Rs2/s3ff Allows · MIC · continuous adjus tment · Poter · <PAD OFF · OFF with control fully · requencies from · 250 Hz. · 120 · 50 · 225 · SENS TiviTY control · 
 
-Every curve, box, word and wire group: [1976 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE (traced).json](../MECHANICAL/1976%20-%20M461%20-%20461-04-008%20-%20CONTROL%20FUNCTIONS%20NOTE%20THAT%20THE%20(traced).json) (the CAD file: `1976 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE (traced).json](../MECHANICAL/1976%20-%20M461%20-%20461-04-008%20-%20CONTROL%20FUNCTIONS%20NOTE%20THAT%20THE%20%28traced%29.json) (the CAD file: `1976 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE (traced).dxf`).
 
 ## Full text
 

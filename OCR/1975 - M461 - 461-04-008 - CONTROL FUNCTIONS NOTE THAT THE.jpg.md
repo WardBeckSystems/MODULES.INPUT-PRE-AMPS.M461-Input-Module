@@ -21,7 +21,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Closed boxes:** 50
 - **Dots (junctions):** 9
 
-Every curve, box, word and wire group: [1975 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE (traced).json](../MECHANICAL/1975%20-%20M461%20-%20461-04-008%20-%20CONTROL%20FUNCTIONS%20NOTE%20THAT%20THE%20(traced).json) (the CAD file: `1975 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE (traced).json](../MECHANICAL/1975%20-%20M461%20-%20461-04-008%20-%20CONTROL%20FUNCTIONS%20NOTE%20THAT%20THE%20%28traced%29.json) (the CAD file: `1975 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE (traced).dxf`).
 
 ## Full text
 

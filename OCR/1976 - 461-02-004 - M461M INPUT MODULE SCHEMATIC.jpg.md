@@ -32,7 +32,7 @@ Close-up photo of the title block of an M461M input module schematic held in a h
 - **Title block:** (69, 79)–(266, 142) mm: DEN · M461 M · GKD: TA · [NPUT MODULE · SCALE
 - **Wiring (first pass):** 32 connected wire groups from 119 runs; labelled ends: 111 mm → LTD;; 63 mm → "AnG, PlAer-oa; 36 mm → WARD-beCK, BYBTEMS, M461 M, MODULE; 33 mm → MODULE, SCHEMATIC, ISS.; 23 mm → BYBTEMS, LTD;
 
-Every curve, box, word and wire group: [1976 - 461-02-004 - M461M INPUT MODULE SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20461-02-004%20-%20M461M%20INPUT%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1976 - 461-02-004 - M461M INPUT MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 461-02-004 - M461M INPUT MODULE SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20461-02-004%20-%20M461M%20INPUT%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1976 - 461-02-004 - M461M INPUT MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

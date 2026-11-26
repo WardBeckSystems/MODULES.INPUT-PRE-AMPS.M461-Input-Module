@@ -35,7 +35,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Title block:** (145, 11)–(382, 62) mm: IsS MOD  CKD · USED ON · MATL · 3/29 · WBS WARD-BECK BysTEMS LTD- · Zurer 4-109 44.109A · Fo B1ogABLYsc · DRN; ELJ · Ma61M · FINISH · DATE 8sePT 76 · CKD_ · FUNCTIONAL · SCALE · TOLS · 461 01
 - **Wiring (first pass):** 135 connected wire groups from 345 runs; labelled ends: 128 mm → CoMMON, USED, ON; 123 mm → PRE, Post; 92 mm → PRE, PRE |Post; 56 mm → MobULE, M481M; 50 mm → 8 - 1o9
 
-Every curve, box, word and wire group: [1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3 (2) (traced).json](../SCHEMATICS/1976%20-%20461-01-002%20-%20M461M%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20ELJ%20-%20ISS%203%20(2)%20(traced).json) (the CAD file: `1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3 (2) (traced).json](../SCHEMATICS/1976%20-%20461-01-002%20-%20M461M%20INPUT%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20ELJ%20-%20ISS%203%20%282%29%20%28traced%29.json) (the CAD file: `1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3 (2) (traced).dxf`).
 
 ## Full text
 

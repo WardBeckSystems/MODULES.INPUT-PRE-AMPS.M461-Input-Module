@@ -32,7 +32,7 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Circles and arcs:** 14 circles, 0 arcs; largest r 10.8 @ (32.8, 238.5), r 6.1 @ (33.6, 301.4), r 5.5 @ (9.5, 238.6), r 5.4 @ (9.5, 264.6)
 - **Closed boxes:** 31
 
-Every curve, box, word and wire group: [1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY (LAYOUT) - DRN MING - ISS 1 (traced).json](../MECHANICAL/1976%20-%20461-04-008%20-%20M461M%20INPUT%20MODULE%20ASSEMBLY%20(LAYOUT)%20-%20DRN%20MING%20-%20ISS%201%20(traced).json) (the CAD file: `1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY (LAYOUT) - DRN MING - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY (LAYOUT) - DRN MING - ISS 1 (traced).json](../MECHANICAL/1976%20-%20461-04-008%20-%20M461M%20INPUT%20MODULE%20ASSEMBLY%20%28LAYOUT%29%20-%20DRN%20MING%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY (LAYOUT) - DRN MING - ISS 1 (traced).dxf`).
 
 ## Full text
 

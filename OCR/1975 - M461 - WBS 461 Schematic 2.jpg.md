@@ -12,6 +12,18 @@ Wiki page: [M461](../../../../PAGES/M461.md)
 - **Size:** 3,169,078 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 314 mm, 2000 × 1453 px traced (0.216 mm/px), turned 270°
+- **Ink extent:** 3–425 mm across, 11–307 mm up
+- **Outlines:** line 9,061 rings, 71,057 straight (47,436 mm) / 13,454 curved (12,660 mm); text 94 rings, 1,279 straight (887 mm) / 236 curved (234 mm)
+- **Centre lines:** 44,624 paths (287 closed); straight 15,910 mm, curved 111 mm; horizontal 3,669 mm, vertical 3,517 mm, diagonal 8,724 mm
+- **Circles and arcs:** 3 circles, 34 arcs; largest r 9.2 @ (175.7, 155.6), r 9.1 @ (206.6, 189.1), r 5.4 @ (215.4, 203.8)
+- **Dots (junctions):** 2
+- **Wiring (first pass):** 45 connected wire groups from 801 runs
+
+Every curve, box, word and wire group: [1975 - M461 - WBS 461 Schematic 2 (traced).json](../SCHEMATICS/1975%20-%20M461%20-%20WBS%20461%20Schematic%202%20%28traced%29.json) (the CAD file: `1975 - M461 - WBS 461 Schematic 2 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)
