@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M461/MECHANICAL/1974 - 461-03-031 - SCHADOW SERIES 'G' MTG. (PCB V.S. BKT MTG) - DRN DM - ISS 3.jpg",
+ "version": 1,
+ "trace": "_traces/f761affd9dbaa7be.svg",
+ "sheet": {
+  "number": "B 461-03-031",
+  "title": "SCHADOW SERIES 'G' MTG. / (PCB V.S. BKT MTG)",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 270,
+  "px": [1494, 2000],
+  "mm": [322.6, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 79.5, 315.9, 425.8],
+ "outlines": {
+  "line": {"rings": 366, "straight": {"n": 6875, "mm": 6208.0}, "curved": {"n": 898, "mm": 1049.5}},
+  "text": {"rings": 121, "straight": {"n": 2139, "mm": 1585.9}, "curved": {"n": 398, "mm": 421.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 11774, "straight": {"n": 12039, "mm": 5792.6}, "curved": {"n": 33, "mm": 37.4}},
+   "text": {"paths": 4464, "straight": {"n": 4733, "mm": 2092.1}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 130,
+  "orientation": {"horizontal": {"n": 4528, "mm": 2758.6}, "vertical": {"n": 4310, "mm": 1429.1}, "diagonal": {"n": 7934, "mm": 3697.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [248.6, 141.7], "r": 2.4, "kind": "arc", "span": 129, "from": ["centre line"], "start": 161},
+  {"c": [276.1, 141.2], "r": 2.2, "kind": "arc", "span": 119, "from": ["centre line"], "start": 270},
+  {"c": [74.8, 124.3], "r": 1.7, "kind": "arc", "span": 245, "from": ["centre line"], "start": 230},
+  {"c": [266.9, 92.7], "r": 1.6, "kind": "arc", "span": 146, "from": ["centre line"], "start": 22},
+  {"c": [269.3, 86.6], "r": 1.5, "kind": "arc", "span": 122, "from": ["centre line"], "start": 130},
+  {"c": [9.2, 122.8], "r": 1.1, "kind": "arc", "span": 261, "from": ["centre line"], "start": 88},
+  {"c": [87.5, 123.6], "r": 1.1, "kind": "arc", "span": 180, "from": ["centre line"], "start": 299},
+  {"c": [10.0, 124.3], "r": 1.1, "kind": "arc", "span": 249, "from": ["centre line"], "start": 289},
+  {"c": [165.3, 80.9], "r": 0.9, "kind": "arc", "span": 145, "from": ["centre line"], "start": 245}
+ ],
+ "boxes": [],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 461-03-031, size B 323 × 432 mm, 1494 × 2000 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 0–316 mm across, 80–426 mm up",
+  "- **Outlines:** line 366 rings, 6,875 straight (6,208 mm) / 898 curved (1,050 mm); text 121 rings, 2,139 straight (1,586 mm) / 398 curved (422 mm)",
+  "- **Centre lines:** 16,238 paths (130 closed); straight 7,885 mm, curved 37.4 mm; horizontal 2,759 mm, vertical 1,429 mm, diagonal 3,697 mm",
+  "- **Circles and arcs:** 0 circles, 9 arcs"
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M461/MECHANICAL/1975 - 461-03-033 - SCHADOW SERIES 'F' PCB MTG. (ILLUMINATED & NORMAL MTG.) - DRN DM - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/d5ee1533060210f7.svg",
+ "sheet": {
+  "number": "B 461-03-033",
+  "title": "SCHADOW SERIES 'F' PCB MTG. / (ILLUMINATED &amp; NORMAL MTG.)",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1494],
+  "mm": [431.8, 322.6],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 43.9, 432.0, 322.6],
+ "outlines": {
+  "line": {"rings": 523, "straight": {"n": 6378, "mm": 7105.7}, "curved": {"n": 827, "mm": 942.1}},
+  "text": {"rings": 305, "straight": {"n": 2864, "mm": 3219.8}, "curved": {"n": 608, "mm": 885.9}},
+  "tb": {"rings": 7, "straight": {"n": 295, "mm": 717.8}, "curved": {"n": 27, "mm": 53.3}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 9935, "straight": {"n": 10169, "mm": 4844.0}, "curved": {"n": 9, "mm": 10.1}},
+   "text": {"paths": 1559, "straight": {"n": 2047, "mm": 2234.9}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 842, "straight": {"n": 925, "mm": 1192.8}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 54,
+  "orientation": {"horizontal": {"n": 3682, "mm": 3253.1}, "vertical": {"n": 3096, "mm": 1182.9}, "diagonal": {"n": 6363, "mm": 3835.7}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [97.4, 314.1], "r": 4.0, "kind": "arc", "span": 73, "from": ["centre line"], "start": 211},
+  {"c": [329.2, 105.1], "r": 1.2, "kind": "arc", "span": 133, "from": ["centre line"], "start": 343},
+  {"c": [415.1, 45.7], "r": 1.1, "kind": "arc", "span": 122, "from": ["centre line"], "start": 331}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 25,
+  "lines": [
+   {"mm": [328.2, 303.6, 345.9, 312.2], "text": "350"},
+   {"mm": [171.4, 242.9, 190.2, 253.2], "text": "810"},
+   {"mm": [9.3, 206.0, 36.3, 213.4], "text": "MATL."},
+   {"mm": [120.0, 191.7, 391.2, 207.0], "text": "WBS WARD-BECK BYSTEMB LTD."},
+   {"mm": [103.2, 176.8, 124.8, 184.3], "text": "DRN:"},
+   {"mm": [134.7, 175.7, 156.1, 186.3], "text": "Do"},
+   {"mm": [192.4, 166.9, 352.8, 180.8], "text": "SCHADOW SERIES PCB"},
+   {"mm": [356.5, 166.9, 391.0, 178.6], "text": "MTG-"},
+   {"mm": [101.5, 167.1, 125.7, 175.3], "text": "DATE"},
+   {"mm": [128.2, 166.9, 167.5, 176.5], "text": "OCT 75"},
+   {"mm": [0.0, 164.3, 24.8, 172.0], "text": "TINISH"},
+   {"mm": [191.9, 149.8, 392.9, 167.0], "text": "(ILLUMINATED & NORMAL MTG,)"},
+   {"mm": [99.3, 156.7, 120.9, 164.2], "text": "CKD_"},
+   {"mm": [97.6, 145.9, 158.0, 155.2], "text": "SCALE 2 : 1"},
+   {"mm": [129.3, 138.8, 141.2, 144.3], "text": "XX"},
+   {"mm": [190.9, 124.8, 319.1, 144.7], "text": "Bl461-03-033"},
+   {"mm": [94.8, 127.2, 148.3, 141.6], "text": "TOLS_ \"Ang"},
+   {"mm": [362.7, 129.3, 383.2, 138.0], "text": "ISS."}
+  ],
+  "scale": "2 : 1"
+ },
+ "title_block": {
+  "mm": [89.0, 140.7, 290.1, 213.5],
+  "from": "title-block words (training set)",
+  "text": ["WBS WARD-BECK BYSTEMB LTD.", "DRN:", "Do", "SCHADOW SERIES PCB", "DATE", "OCT 75", "CKD_", "SCALE 2 : 1", "XX"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 461-03-033, size B 432 × 323 mm, 2000 × 1494 px traced (0.216 mm/px); scale 2 : 1",
+  "- **Ink extent:** 0–432 mm across, 44–323 mm up",
+  "- **Outlines:** line 523 rings, 6,378 straight (7,106 mm) / 827 curved (942 mm); text 305 rings, 2,864 straight (3,220 mm) / 608 curved (886 mm); tb 7 rings, 295 straight (718 mm) / 27 curved (53.3 mm)",
+  "- **Centre lines:** 12,336 paths (54 closed); straight 8,272 mm, curved 10.1 mm; horizontal 3,253 mm, vertical 1,183 mm, diagonal 3,836 mm",
+  "- **Circles and arcs:** 0 circles, 3 arcs",
+  "- **Words (OCR):** 25 in 18 lines: 350 · 810 · MATL. · WBS WARD-BECK BYSTEMB LTD. · DRN: · Do · SCHADOW SERIES PCB · MTG- · DATE · OCT 75 · TINISH · (ILLUMINATED & NORMAL MTG,)",
+  "- **Title block:** (89, 141)–(290, 214) mm: WBS WARD-BECK BYSTEMB LTD. · DRN: · Do · SCHADOW SERIES PCB · DATE · OCT 75 · CKD_ · SCALE 2 : 1 · XX"
+ ]
+}
