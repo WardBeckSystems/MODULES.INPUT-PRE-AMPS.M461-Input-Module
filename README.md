@@ -13,6 +13,36 @@ Ward-Beck Systems M461, 1974|7. Wiki page: [M461 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 94 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [18 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M461 - DOC - WBS sales 31.jpg](MANUALS/19xx%20-%20M461%20-%20DOC%20-%20WBS%20sales%2031.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Metering stereo tie** | Meter facilities provided for operation with M466 Compressor / Limiter |
+| **Phasing** | Low number termina ]so f input and output are in phase |
+| **Power requirements** | +25 volts dc, 135 ma maximum. |
+| **Ambient temperature** | to 600 Celsius |
+| **Dimensions** | 1 6&quot; wide X 7&quot; high X 6.5&quot; deep (41 mm X 178 mm X 165 mm) |
+
+## Circuit description
+
+From [1975 - M461 - P5.jpg](MANUALS/1975%20-%20M461%20-%20P5.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**M46 1 [NPUT MODULE**
+
+PHASE Reverse] The signa] is returned to the module via pins 13 and and routed through the PHASE REVERSAL switch SW2 to the CHANNEL ON switch SW3. SOLO/ CUE The bridge ing take-off for the SOL 0/ CUE output is picked up between SW2 and SW3. CHANNEL ON Switch The CHANNEL ON Switch SW3 controls all outputs of the module with the exception of the SOLO/ CUE output. Fader Fo] low ing SW3. the s igna | is brought out of the module via pins 12 and N for insertion of balanced fader The output of the fader is returned to the module on pins 11 and M. The inputs ide of the fader also serves as pick-up point for the PRE-FADE REVERBERATION SEND (RS) and the PRE FADE FOLDBACK (FB) channe Is via switches Sw10 and SW3 respectively. 4-109 Booster Amplifier The 4-109 booster amp] ifier operates with gain of 15 dB and recovers the loss incurred when the fader is placed in its nom ina] 15 dB &quot;in hand&quot; position. PAN and Main Outputs The outputs igna] of the 4-109 amp Ii fier is used to feed both left and right main outputs via the PAN switch SWI1 and PAN contro] R40 through R43 It also provides the feed for the POST_ FADE RS and Post-FADE FB channe Is via SW tches SWIO and SWg
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
