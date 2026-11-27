@@ -76,6 +76,14 @@ Shared privately on Google Drive (opens after sign-in): [1975|8 · Rack mounted 
 
 Not on Google Drive yet: `1974 - 461-03-003 - SWITCH MTG. BRACKET - DRN DM - ISS 7.jpg`, `1974 - 461-03-031 - SCHADOW SERIES 'G' MTG. (PCB V.S. BKT MTG) - DRN DM - ISS 3.jpg`, `1974 - 461-03-031 - SCHADOW SERIES 'G' MTG. (PCB V.S. BKT MTG) - DRN DM - ISS 3.png`, `1975 - 461-03-033 - SCHADOW SERIES 'F' PCB MTG. (ILLUMINATED & NORMAL MTG.) - DRN DM - ISS 1 (2).jpg`, `1975 - 461-03-033 - SCHADOW SERIES 'F' PCB MTG. (ILLUMINATED & NORMAL MTG.) - DRN DM - ISS 1.jpg`, `1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY (LAYOUT) - DRN MING - ISS 1.jpg`, `1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY - DRN MING - ISS 2.jpg`, `1987 - 461-03-041 - SWITCH MOUNTING BRACKET - DRN Steve Gray - ISS 1.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M461.stl`](MECHANICAL/M461.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M461)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 1 6" wide X 7" high X 6.5" deep (41 mm X 178 mm X 165 mm))
+- **From the drawing:** 18 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M461 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M461.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
