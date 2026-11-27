@@ -96,31 +96,64 @@ Not on Google Drive yet: `M461 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-21 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 14 of 22 contacts; 8 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P1-11: kept BOOSTER AMP (insert_send); RTO-144 sheet says Fader Return + (in)
+- disagree P1-12: kept CH ON (insert_return); RTO-144 sheet says CHON OUT - OUT + (out)
+- disagree P1-13: kept PHASE SWITCH (insert_send); RTO-144 sheet says Insert Return + (in)
+- disagree P1-14: kept OUTPUT AMP (insert_return); RTO-144 sheet says Insert Send + (out)
+- disagree P1-M: kept BOOSTER AMP (insert_send); RTO-144 sheet says Fader Return - (in)
+- disagree P1-N: kept CH ON (insert_return); RTO-144 sheet says CHON OUT - OUT - (out)
+- disagree P1-P: kept PHASE SWITCH (insert_send); RTO-144 sheet says Insert Return - (in)
+- disagree P1-R: kept OUTPUT AMP (insert_return); RTO-144 sheet says Insert Send - (out)
+
+**Inserts:** BOOSTER AMP / CH ON: BOOSTER AMP → CH ON · PHASE SWITCH / OUTPUT AMP: PHASE SWITCH → OUTPUT AMP
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | MIC IN | in | A1 + | high |
-| 10 | LINE | in | A2 + | high |
-| 11 | FADER RETURN | in | B4 + | high |
-| 12 | CHON OUT   OUT | out | B3 + | high |
-| 13 | INSERT RETURN | in | B2 + | high |
-| 14 | INSERT SEND | out | B1 + | high |
-| 16 | RIGHT OUT | out | A3 + | high |
-| 18 | COMMON | ground |  | high |
-| 19 | -25 V | power |  | high |
-| 20 | COMMON | ground |  | high |
-| 21 | +25 V | power |  | high |
-| A | MIC IN | in | A1 - | high |
-| L | LINE | in | A2 - | high |
-| M | FADER RETURN | in | B4 - | high |
-| N | CHON OUT   OUT | out | B3 - | high |
-| P | INSERT RETURN | in | B2 - | high |
-| R | INSERT SEND | out | B1 - | high |
-| T | RIGHT OUT | out | A3 - | high |
-| Y | +24 V | power |  | high |
+| 1 | MIC IN | in | MIC IN | medium |
+| 2 | MIC SHIELD | shield | MIC IN shield | medium |
+| 4 | FB 2 OUT | out | FB 2 OUT | medium |
+| 5 | FB 1 OUT | out | FB 1 OUT | medium |
+| 6 | RS 2 OUT | out | RS 2 OUT | medium |
+| 7 | RS 1 OUT | out | RS 1 OUT | medium |
+| 8 | SOLO/CUE | bus | SOLO/CUE | medium |
+| 10 | LINE IN | in | LINE IN | medium |
+| 11 | BOOSTER AMP | insert_send | BOOSTER AMP | medium |
+| 12 | CH ON | insert_return | CH ON | medium |
+| 13 | PHASE SWITCH | insert_send | PHASE SWITCH | medium |
+| 14 | OUTPUT AMP | insert_return | OUTPUT AMP | medium |
+| 15 | LEFT OUT | out | LEFT OUT | medium |
+| 16 | RIGHT OUT | out | RIGHT OUT | medium |
+| 17 | MIC MUTE CONTROL | control_in | MIC MUTE CONTROL | medium |
+| 18 | CONTROL COMMON | ground |  | medium |
+| 19 | -25 V | power |  | medium |
+| 20 | COMMON | ground |  | medium |
+| 21 | +25 V | power |  | medium |
+| 22 | CHASSIS GROUND | ground |  | medium |
+| A | MIC IN | in | MIC IN | medium |
+| D | FB 2 OUT | out | FB 2 OUT | medium |
+| E | FB 1 OUT | out | FB 1 OUT | medium |
+| F | RS 2 OUT | out | RS 2 OUT | medium |
+| H | RS 1 OUT | out | RS 1 OUT | medium |
+| J | SOLO/CUE | bus | SOLO/CUE | medium |
+| L | LINE IN | in | LINE IN | medium |
+| M | BOOSTER AMP | insert_send | BOOSTER AMP | medium |
+| N | CH ON | insert_return | CH ON | medium |
+| P | PHASE SWITCH | insert_send | PHASE SWITCH | medium |
+| R | OUTPUT AMP | insert_return | OUTPUT AMP | medium |
+| S | LEFT OUT | out | LEFT OUT | medium |
+| T | RIGHT OUT | out | RIGHT OUT | medium |
+| U | LINE MUTE CONTROL | control_in | LINE MUTE CONTROL | medium |
+| V | SOLO CONTROL | control_in | SOLO CONTROL | medium |
+| W | CH ON CONTROL | control_in | CH ON CONTROL | medium |
+| X | CONTROL COMMON | ground |  | medium |
+| Y | +24 V | power |  | medium |
+| Z | CH ON LAMP | control_out | CH ON LAMP | medium |
 
-**Straps:** CH ON LAMP: JMP.Z.W · 24V Ground: JMP.X.18 · 24V to 25V: JMP.Y.21 · CH ON GND : JMP.20.18 · Insert  SEND: JMP.14.13 · Insert  Return: JMP.R.P · Fader Send: JMP.12.11 · Fader Return: JMP.N.M
+**Straps:** BOOSTER AMP - CH ON: P1-M P1-N · PHASE SWITCH - OUTPUT AMP: P1-P P1-R · CH ON CONTROL - CH ON LAMP: P1-W P1-Z · hand-drawn link: P1-18 P1-20 · JMP.Z.W: Z W · JMP.X.18: X 18 · JMP.Y.21: Y 21 · JMP.20.18: 20 18 · JMP.14.13: 14 13 · JMP.R.P: R P · JMP.12.11: 12 11 · JMP.N.M: N M
 
 ## Manuals and documents
 
