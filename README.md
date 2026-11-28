@@ -4,13 +4,12 @@ Ward-Beck Systems M461, 1974|7. Wiki page: [M461 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 44 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 51 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 32 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 36 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 43 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 50 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 31 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 35 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 92 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -70,7 +69,13 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU2NLaTBqT3hXQ3c/view?resourcekey=0-PgtApj0idfjgmM7qvqMlqg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU2NLaTBqT3hXQ3c&resourcekey=0-PgtApj0idfjgmM7qvqMlqg" width="240" alt="1975 - M461 - Rack mounted.jpg"></a><br><sub>1975|8 · Rack mounted</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUmZYZ2EzT2l4S3c/view?resourcekey=0-IR0kQsGKbw_THm_o7R8rXQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUmZYZ2EzT2l4S3c&resourcekey=0-IR0kQsGKbw_THm_o7R8rXQ" width="240" alt="1976 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE.jpg"></a><br><sub>1976|9 · 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE · <a href="MECHANICAL/1976%20-%20M461%20-%20461-04-008%20-%20CONTROL%20FUNCTIONS%20NOTE%20THAT%20THE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1PmsNAz_XNaZX8muD5oRki44kPxXzYNNB/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1PmsNAz_XNaZX8muD5oRki44kPxXzYNNB" width="240" alt="19xx - M461 - DOC - 461-03-041 - REMOVE ALL BURRS AND SIIARP.jpg"></a><br><sub>19xx - M461 - DOC - 461-03-041 - REMOVE ALL BURRS AND SIIARP · <a href="MECHANICAL/19xx%20-%20M461%20-%20DOC%20-%20461-03-041%20-%20REMOVE%20ALL%20BURRS%20AND%20SIIARP%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1974 - 461-03-003 - SWITCH MTG. BRACKET - DRN DM - ISS 7.jpg`, `1974 - 461-03-031 - SCHADOW SERIES 'G' MTG. (PCB V.S. BKT MTG) - DRN DM - ISS 3.jpg`, `1974 - 461-03-031 - SCHADOW SERIES 'G' MTG. (PCB V.S. BKT MTG) - DRN DM - ISS 3.png`, `1975 - 461-03-033 - SCHADOW SERIES 'F' PCB MTG. (ILLUMINATED & NORMAL MTG.) - DRN DM - ISS 1 (2).jpg`, `1975 - 461-03-033 - SCHADOW SERIES 'F' PCB MTG. (ILLUMINATED & NORMAL MTG.) - DRN DM - ISS 1.jpg`, `1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY (LAYOUT) - DRN MING - ISS 1.jpg`, `1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY - DRN MING - ISS 2.jpg`, `1987 - 461-03-041 - SWITCH MOUNTING BRACKET - DRN Steve Gray - ISS 1.jpg`
+## 3-D model
+
+[`MECHANICAL/M461.stl`](MECHANICAL/M461.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M461)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 1 6" wide X 7" high X 6.5" deep (41 mm X 178 mm X 165 mm))
+- **From the drawing:** 18 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M461 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M461.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -81,13 +86,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbGJqLUNTcF9CNnc/view?resourcekey=0-Cvbd20girHFT_XIuYOWWvg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbGJqLUNTcF9CNnc&resourcekey=0-Cvbd20girHFT_XIuYOWWvg" width="240" alt="1975 - M461 - WBS 461 Schematic 2.jpg"></a><br><sub>1975|8 · WBS 461 Schematic 2 · <a href="SCHEMATICS/1975%20-%20M461%20-%20WBS%20461%20Schematic%202%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/14idzpuPaQoTp5bkDR4Rd9e0U5w-A0s95/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=14idzpuPaQoTp5bkDR4Rd9e0U5w-A0s95" width="240" alt="1976 - M461 - Input Module Functional.pdf"></a><br><sub>1976|9 · Input Module Functional</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/18uuZ_Ygv-ETTlBI-Rt6YWO-BGLTtyI5Y/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=18uuZ_Ygv-ETTlBI-Rt6YWO-BGLTtyI5Y" width="240" alt="19xx - M461 - DOC - 461-02-004 - UNLESS OTHERWISE SPECIFIED USE.jpg"></a><br><sub>19xx - M461 - DOC - 461-02-004 - UNLESS OTHERWISE SPECIFIED USE · <a href="SCHEMATICS/19xx%20-%20M461%20-%20DOC%20-%20461-02-004%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20USE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1976 - 461-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 1.jpg`, `1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3 (2).jpg`, `1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3.jpg`, `1976 - 461-02-004 - M461M INPUT MODULE SCHEMATIC.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M461 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -167,8 +168,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRTBpSHp1QmF3WGM/view?resourcekey=0-SxpN49kUcDlNSJosUpjxaQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRTBpSHp1QmF3WGM&resourcekey=0-SxpN49kUcDlNSJosUpjxaQ" width="240" alt="19xx - M461 - DOC - WardBeckMn.jpg"></a><br><sub>19xx - M461 - DOC - WardBeckMn</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKczRHMkRhMW93UkE/view?resourcekey=0-pdbTY0D0v-ut-D4N9PuSuw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKczRHMkRhMW93UkE&resourcekey=0-pdbTY0D0v-ut-D4N9PuSuw" width="240" alt="19xx - M461 - DOC - WardBkMnOpen.jpg"></a><br><sub>19xx - M461 - DOC - WardBkMnOpen</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1977 - M461 - Table of Contents M461 Input Module.jpg`, `19xx - M461 - Addendum M461 Input Module.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -184,7 +183,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1976 - M461 - Input Module Functional p1.kicad_sch](KICAD/1976%20-%20M461%20-%20Input%20Module%20Functional%20p1.kicad_sch)
 - [19xx - M461 - DOC - 461-02-004 - UNLESS OTHERWISE SPECIFIED USE.kicad_sch](KICAD/19xx%20-%20M461%20-%20DOC%20-%20461-02-004%20-%20UNLESS%20OTHERWISE%20SPECIFIED%20USE.kicad_sch)
 - [M461.kicad_sym](KICAD/M461.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
