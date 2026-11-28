@@ -1,5 +1,5 @@
 # 1974 - 461-03-031 - SCHADOW SERIES 'G' MTG. (PCB V.S. BKT MTG) - DRN DM - ISS 3.jpg
-Wiki page: [M461](../../../../PAGES/M461.md)
+Wiki page: [M461](../)
 
 
 - **Year:** 1974 (title block date)

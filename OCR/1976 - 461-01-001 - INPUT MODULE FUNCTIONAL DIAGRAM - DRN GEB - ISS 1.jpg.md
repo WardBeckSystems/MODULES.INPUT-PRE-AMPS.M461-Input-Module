@@ -1,5 +1,5 @@
 # 1976 - 461-01-001 - INPUT MODULE FUNCTIONAL DIAGRAM - DRN GEB - ISS 1.jpg
-Wiki page: [M461](../../../../PAGES/M461.md)
+Wiki page: [M461](../)
 
 
 - **Year:** 1976 (title block date)

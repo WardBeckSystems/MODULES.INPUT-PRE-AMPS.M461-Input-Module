@@ -1,5 +1,5 @@
 # 1976 - M461 - 461-04-008 - CONTROL FUNCTIONS NOTE THAT THE.jpg
-Wiki page: [M461](../../../../PAGES/M461.md)
+Wiki page: [M461](../)
 
 
 - **Year:** 1976 (found in this file: "DATE Oct 76")

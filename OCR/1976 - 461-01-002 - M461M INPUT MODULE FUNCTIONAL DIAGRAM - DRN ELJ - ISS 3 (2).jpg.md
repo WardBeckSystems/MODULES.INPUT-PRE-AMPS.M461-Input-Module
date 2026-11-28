@@ -1,5 +1,5 @@
 # 1976 - 461-01-002 - M461M INPUT MODULE FUNCTIONAL DIAGRAM - DRN ELJ - ISS 3 (2).jpg
-Wiki page: [M461](../../../../PAGES/M461.md)
+Wiki page: [M461](../)
 
 
 - **Year:** 1976 (title block date)

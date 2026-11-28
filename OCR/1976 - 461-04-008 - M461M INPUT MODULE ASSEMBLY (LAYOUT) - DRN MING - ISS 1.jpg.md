@@ -1,5 +1,5 @@
 # 1976 - 461-04-008 - M461M INPUT MODULE ASSEMBLY (LAYOUT) - DRN MING - ISS 1.jpg
-Wiki page: [M461](../../../../PAGES/M461.md)
+Wiki page: [M461](../)
 
 
 - **Year:** 1976 (title block date)

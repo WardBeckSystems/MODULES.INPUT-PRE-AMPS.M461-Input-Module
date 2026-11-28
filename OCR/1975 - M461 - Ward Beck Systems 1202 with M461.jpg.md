@@ -1,5 +1,5 @@
 # 1975 - M461 - Ward Beck Systems 1202 with M461.jpg
-Wiki page: [M461](../../../../PAGES/M461.md)
+Wiki page: [M461](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

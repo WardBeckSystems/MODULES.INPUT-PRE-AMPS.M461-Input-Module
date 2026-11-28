@@ -1,5 +1,5 @@
 # 1987 - 461-03-041 - SWITCH MOUNTING BRACKET - DRN Steve Gray - ISS 1.jpg
-Wiki page: [M461](../../../../PAGES/M461.md)
+Wiki page: [M461](../)
 
 
 - **Year:** 1987 (title block date)

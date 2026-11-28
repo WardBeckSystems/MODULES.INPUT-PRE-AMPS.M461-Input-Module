@@ -1,5 +1,5 @@
 # 1977 - M461 - Table of Contents M461 Input Module.jpg
-Wiki page: [M461](../../../../PAGES/M461.md)
+Wiki page: [M461](../)
 
 
 - **Year:** 1977 (title block date)
